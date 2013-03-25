@@ -1,0 +1,16 @@
+{
+    "name": "meenie/javascript-packer",
+    "description": "Composer hosted mirror of the PHP Version of Dean Edwards' JavaScript Packer",
+    "keywords": ["javascript packer"],
+    "homepage": "http://joliclic.free.fr/php/javascript-packer/en/",
+    "license": "LGPL 2.1",
+    "authors": [
+        {
+            "name": "Nicolas Martin",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": ["class.JavaScriptPacker.php"]
+    }
+}
